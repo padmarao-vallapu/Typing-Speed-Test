@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.typing-test-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+
+}
+
+.main-heading {
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 40px;
+    color: #690cb0;
+}
+
+.caption {
+    color: #3e4c59;
+    font-family: Roboto;
+    font-size: 20px;
+
+}
+
+.clock-img {
+    height: 10vh;
+    width: 10vh;
+}
+
+.seconds {
+    font-family: Roboto;
+    font-size: 20px;
+
+    color: #3e4c59;
+}
+
+.time {
+    font-size: 70px;
+}
+
+.quote-box {
+    height: cover;
+    background-color: #f2ebfe;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #9aa5b1;
+    outline: none;
+    max-width: 800px;
+
+}
+
+.qoute-display {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 20px;
+
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: #ffffff;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.reset-btn {
+    background-color: #ffffff;
+    color: #323f4b;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.result-msg {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #3e4c59;
+}
+
+.quote-input {
+    outline: none;
+    border: none;
+    box-shadow: 0px 4px 4px 0px;
+}
